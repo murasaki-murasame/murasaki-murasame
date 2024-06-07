@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @murasaki-murasame
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Elixir
